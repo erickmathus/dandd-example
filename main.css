@@ -1,4 +1,175 @@
+
 .info-grid {
   width: 100%;
   display: flex;
 }
+=======
+
+.image-grid {
+  display: flex;
+  grid-template: 100px 100px / 20vw 20vw;
+  grid-gap: 5%;
+  width: 100%;
+  margin: 15px 0;
+
+}
+
+.image-grid:nth-child(1) {
+
+
+=======
+news-grid
+
+
+
+  master
+
+  #navbar img {
+    text-align: center;
+    padding-top: 1%;
+    margin: center;
+    margin-left: 50%;
+    margin-bottom:
+}
+  #navbar {
+   background-color: #f5f5dc;
+   padding: 0.4%;
+   text-align: center;
+   text-color: grey;
+ }
+
+ #navbar ul li{
+   display: inline;
+   padding-top: 0 1.5%;
+   padding-center;
+
+ }
+ .main-header {
+
+background-position: center;
+background-position: 50% 30%;
+ }
+
+ .logo {
+   position: inline;
+   position: center;
+   text-color: grey;
+ }
+
+
+body{
+  margin: 0 auto;
+}
+
+/* footer */
+
+
+
+.image1 {
+  width: 66.66% 7px;
+  position: absolute;
+  background-image: url("http://dnd.wizards.com/sites/default/files/media/images/product-carousel/Saltmarsh_Products_Highlight.jpg");
+  padding: 40px;
+  justify-content: flex-end;
+  text-transform: uppercase;
+}
+
+.image-grid:nth-child(1) h1{
+  color: white;
+}
+
+.image-grid:nth-child(2) {
+  background-image: url("http://dnd.wizards.com/sites/default/files/media/images/product-carousel/DX_Latest_Content_Acq-Inc.jpg");
+  content: "";
+  padding-top: 56.13636364%;
+  display: flex;
+  }
+
+
+  .image-grid:nth-child(2) h1{
+    color: white;
+  }
+  news-grid
+
+.image2
+.image2
+.image
+.image4 }
+
+.footer{
+  background-color: #000;
+  height: 500px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 5% 45%;
+
+
+}
+.footer div:nth-child(1){
+  background-color: red;
+  width: 100%;
+  height: 240px;
+  margin-top: 155px;
+
+}
+.footer div:nth-child(2){
+  background-color: blue;
+  width: 100%;
+
+}
+.footer div:nth-child(3){
+  /* background-color: yellow; */
+  width: 100%;
+  background-image: url('https://geekandsundry.com/wp-content/uploads/2017/04/The-Beholder.jpg');
+  background-position: -72px center;
+  background-repeat: no-repeat;
+  opacity: 0.2;
+  filter: grayscale(100%);
+}
+
+.footer input{
+  position: relative;
+  padding: 12px;
+  width: 400px;
+  top: 55px;
+  left: 40px;
+  height: 10px;
+}
+/* footer end */
+
+
+}
+
+
+.homepageheader img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.headertitle h1{
+  margin-top: -100px;
+   text-align: center;
+   font-size: 80px;
+   color: white;
+}
+
+.headertitle h2 {
+  margin-top: -80px;
+  text-align: center;
+  padding: 40px 0;
+  font-size: 70px;
+  color: white;
+}
+
+
+body {
+}
+
+  #navbar img {
+    text-align: center;
+    padding-top:
+  }
+
