@@ -6,7 +6,12 @@
   margin-right: auto;
   width: 50%;
 }
-.headertitle {
-  position: absolute;
+.headertitle h1{
+  margin-top: -80px;
+   text-align: center;
+   margin
+}
+.headertitle h2 {
   text-align: center;
-  padding: 20% 30% 30% 30%;
+  padding: 40px 0;
+}
