@@ -1,8 +1,16 @@
 
+.homepageheader img{
+  width: 70%;
+  text-align: center;
+}
+
+
+
 .image-grid {
   display: block;
   grid-template: 100px 100px / 20vw 20vw;
   grid-gap: 5%;
+
 }
 
 
