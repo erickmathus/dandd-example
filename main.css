@@ -9,7 +9,6 @@
 }
 
 .image-grid:nth-child(1) {
-=======
   #navbar img {
     text-align: center;
     padding-top: 1%;
@@ -72,10 +71,6 @@ body{
     color: white;
   }
 
-.image2
-.image2
-.image
-.image4 {
 .footer{
   background-color: #000;
   height: 500px;
@@ -112,12 +107,14 @@ body{
   margin-right: auto;
   width: 100%;
 }
+
 .headertitle h1{
   margin-top: -100px;
    text-align: center;
    font-size: 80px;
    color: white;
 }
+
 .headertitle h2 {
   margin-top: -80px;
   text-align: center;
