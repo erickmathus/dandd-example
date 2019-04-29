@@ -1,5 +1,8 @@
-.homepageheader {
-  width: 100%;
+.homepageheader img{
+  width: 70%;
+  text-align: center;
+
+
 }
 .headertitle {
   position: absolute;
