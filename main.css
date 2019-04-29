@@ -8,7 +8,7 @@
 
 }
 
-.image1 {
+.image-grid:nth-child(1) {
   width: 66.66% 7px;
   position: absolute;
   background-image: url("http://dnd.wizards.com/sites/default/files/media/images/product-carousel/Saltmarsh_Products_Highlight.jpg");
@@ -17,25 +17,21 @@
   text-transform: uppercase;
 }
 
-.image1 h1 {
+.image-grid:nth-child(1) h1{
   color: white;
 }
 
-.image2 {
+.image-grid:nth-child(2) {
   background-image: url("http://dnd.wizards.com/sites/default/files/media/images/product-carousel/DX_Latest_Content_Acq-Inc.jpg");
   content: "";
   padding-top: 56.13636364%;
   display: flex;
   }
-  .image2 h1{
+
+
+  .image-grid:nth-child(2) h1{
     color: white;
   }
-.image2
-.image2
-.image
-.image4 {
-
-}
 
 body {
 }
