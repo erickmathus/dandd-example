@@ -8,7 +8,6 @@
 
 }
 
-<<<<<<< HEAD
 .image-grid:nth-child(1) {
 =======
   #navbar img {
@@ -49,7 +48,6 @@ body{
 
 
 .image1 {
->>>>>>> ee7797b28870418b7ae0e9e9ffc8dbd687a9765e
   width: 66.66% 7px;
   position: absolute;
   background-image: url("http://dnd.wizards.com/sites/default/files/media/images/product-carousel/Saltmarsh_Products_Highlight.jpg");
@@ -73,8 +71,7 @@ body{
   .image-grid:nth-child(2) h1{
     color: white;
   }
-<<<<<<< HEAD
-=======
+
 .image2
 .image2
 .image
@@ -128,7 +125,6 @@ body{
   font-size: 70px;
   color: white;
 }
->>>>>>> ee7797b28870418b7ae0e9e9ffc8dbd687a9765e
 
 
 body {
@@ -138,4 +134,3 @@ body {
     text-align: center;
     padding-top:
   }
-
