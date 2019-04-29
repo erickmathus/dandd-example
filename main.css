@@ -10,6 +10,8 @@
   #navbar {
    background-color: #f5f5dc;
    padding: 0.4%;
+   text-align: center;
+   text-color:
  }
 
  #navbar ul li{
@@ -17,11 +19,13 @@
    padding-top: 0 1.5%;
  }
  .main-header {
-color: #f5f5dc;
+background-font: #grey;
 background-position: center;
 background-position: 50% 30%;
  }
 
  .logo {
    position: inline;
+   position: center;
+   text-color:
  }
