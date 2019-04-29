@@ -17,6 +17,7 @@
  #navbar ul li{
    display: inline;
    padding-top: 0 1.5%;
+   background-font: #grey;
  }
  .main-header {
 background-font: #grey;
