@@ -5,13 +5,23 @@
     padding-top: 1%;
     margin: center;
     margin-left: 50%;
+    margin-bottom:
 }
   #navbar {
-   background-color:
+   background-color: #f5f5dc;
    padding: 0.4%;
  }
 
  #navbar ul li{
    display: inline;
-   padding-top: 0.5;
+   padding-top: 0 1.5%;
+ }
+ .main-header {
+color: #f5f5dc;
+background-position: center;
+background-position: 50% 30%;
+ }
+
+ .logo {
+   position: inline;
  }
