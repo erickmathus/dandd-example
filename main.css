@@ -1,3 +1,4 @@
+
 body{
   margin: 0 auto;
 }
@@ -28,3 +29,40 @@ body{
   width: 100%;
 
 }
+
+
+.homepageheader img{
+  width: 70%;
+  text-align: center;
+}
+
+
+
+.image-grid {
+  display: block;
+  grid-template: 100px 100px / 20vw 20vw;
+  grid-gap: 5%;
+
+}
+
+
+.element-style {
+
+}
+
+
+.image1 {
+  background-image: url(http://dnd.wizards.com/sites/default/files/media/images/product-carousel/Saltmarsh_Products_Highlight.jpg);
+  padding: 40px;
+  justify-content: flex-end;
+
+}
+
+body {
+
+  #navbar img {
+    text-align: center;
+    padding-top: 
+  }
+
+
