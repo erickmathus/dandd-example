@@ -1,7 +1,7 @@
 body{
   margin: 0 auto;
 }
-
+/* footer */
 .footer{
   background-color: #000;
   height: 500px;
@@ -40,3 +40,4 @@ body{
   top: 55px;
   left: 40px;
 }
+/* footer end */
