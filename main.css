@@ -9,7 +9,7 @@
 }
 
 .image-grid:nth-child(1) {
-=======
+
   #navbar img {
     text-align: center;
     padding-top: 1%;
@@ -75,7 +75,7 @@ body{
 .image2
 .image2
 .image
-.image4 {
+.image4 }
 .footer{
   background-color: #000;
   height: 500px;
