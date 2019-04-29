@@ -10,11 +10,14 @@
 
 .image-grid:nth-child(1) {
 
+
+=======
 news-grid
 
 
 
   master
+
   #navbar img {
     text-align: center;
     padding-top: 1%;
@@ -26,16 +29,17 @@ news-grid
    background-color: #f5f5dc;
    padding: 0.4%;
    text-align: center;
-   text-color:
+   text-color: grey;
  }
 
  #navbar ul li{
    display: inline;
    padding-top: 0 1.5%;
-   background-font: #grey;
+   padding-center;
+
  }
  .main-header {
-background-font: #grey;
+
 background-position: center;
 background-position: 50% 30%;
  }
@@ -43,7 +47,7 @@ background-position: 50% 30%;
  .logo {
    position: inline;
    position: center;
-   text-color:
+   text-color: grey;
  }
 
 
