@@ -1,4 +1,37 @@
 
+
+
+  #navbar img {
+    text-align: center;
+    padding-top: 1%;
+    margin: center;
+    margin-left: 50%;
+    margin-bottom:
+}
+  #navbar {
+   background-color: #f5f5dc;
+   padding: 0.4%;
+   text-align: center;
+   text-color:
+ }
+
+ #navbar ul li{
+   display: inline;
+   padding-top: 0 1.5%;
+   background-font: #grey;
+ }
+ .main-header {
+background-font: #grey;
+background-position: center;
+background-position: 50% 30%;
+ }
+
+ .logo {
+   position: inline;
+   position: center;
+   text-color:
+ }
+
 body{
   margin: 0 auto;
 }
